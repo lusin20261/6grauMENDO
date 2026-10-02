@@ -1,0 +1,7 @@
+estamos pasando nuestro 
+repositori a la 
+terminal y creando 
+dentro de ella estamos 
+creando archivos y carpetas 
+y que en nuestro repositori 
+aparesca los archivos y las carpetas 
