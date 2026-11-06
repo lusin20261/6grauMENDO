@@ -1,0 +1,10 @@
+a = input("escribe tu edad : ");
+b = input("escribe cuando es tu cumple :");
+c = input("escibe tu nombre :");
+d = input("escribe tu comida favorita :");
+e = input("escribe tu color favorito");
+print("holi",c);
+print("a mi me gusta el rojo y a ti",e);
+print("mi cumpleaños es el 21 de diciembre y el tuyo es el",b);
+print("tu tienes",a,"y yo tengo 11");
+print("a mi tambien me gusta el",d);
